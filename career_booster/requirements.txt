@@ -12,3 +12,4 @@ sentence-transformers  # Job matching, resume scoring
 reportlab  # PDF generation
 requests  # Web scraping (career_pathway.py)
 webdriver-manager  # Web scraping (LinkedIn)
+pdfplumber
