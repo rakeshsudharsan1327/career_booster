@@ -1,8 +1,8 @@
 # API Keys for various services
 
 # Get this from https://console.cloud.google.com/
-YOUTUBE_API_KEY = "AIzaSyBWkytl0Avn9iswm-D6WA7qw0uzwLrVULQ"
-#YOUTUBE_API_KEY = "AIzaSyDu1Uo31VV8LaixtQF6O_EDLVMfXxi-H90"
+#YOUTUBE_API_KEY = "AIzaSyBWkytl0Avn9iswm-D6WA7qw0uzwLrVULQ"
+YOUTUBE_API_KEY = "AIzaSyDu1Uo31VV8LaixtQF6O_EDLVMfXxi-H90"
 # Get this from https://ai.google.dev/
 GEMINI_API_KEY = "AIzaSyC4aQmveouqu9mQA9zKo9OKITycgiyvfMs"
 
