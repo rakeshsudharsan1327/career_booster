@@ -1,0 +1,36 @@
+## Optimized Resume for Machine Learning Developer (Clearance Required)
+
+**Sathya Narayanan**
+[Gmail Address] | +91 9176611002 | [LinkedIn Profile URL] | [GitHub Profile URL]
+
+**Summary**
+
+Highly motivated and results-oriented aspiring Machine Learning Engineer with a strong foundation in AI and data science, seeking a Junior Machine Learning Developer role requiring a security clearance.  Proven ability to build and deploy efficient ML solutions, demonstrated through projects leveraging LangChain, PyTorch, and Streamlit.  Eager to apply my skills and contribute to a challenging and innovative environment.
+
+**Education**
+
+* **B.Tech in Artificial Intelligence & Data Science (Expected Graduation: 2027)**, Shiv Nadar University, Chennai.  CGPA: 9.28
+* **12th Boards**, Lalaji Memorial Omega International School. Percentage: 97.4% (2022)
+
+**Skills**
+
+* **Programming Languages:** Python (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, LangChain), JavaScript (ExpressJS, NodeJS, HTML, CSS), Java, C, C++
+* **Machine Learning:** Model building, deployment (Streamlit), RAG (Retrieval Augmented Generation), Parallel Processing, Neural Network Visualization
+* **Databases & Tools:**  Firestore, Git, Vim, Linux, Postman, CUDA, NetworkX
+* **Other:** Google OAuth API integration
+
+**Projects**
+
+* **QuizLang – RAG-Based MCQ Answering System:** Developed a Retrieval Augmented Generation (RAG) model using LangChain to answer multiple-choice questions from various document types (PDFs, CSVs, Word docs).  Implemented parallel processing for improved efficiency and created an interactive user interface with Streamlit.  *Key achievement: Demonstrated proficiency in RAG and efficient model deployment.*
+
+* **ShareTAB – Chrome Extension for Tab Sharing:** Built a Chrome extension using JavaScript, Google OAuth, and Firestore to enable seamless collaboration by sharing active browser tabs as hyperlinks.  *Key achievement:  Successfully integrated multiple technologies for a practical application.*
+
+* **TorchGraph – Neural Network Visualization and Graph-Based Programming (In Progress):** Developing a visual drag-and-drop interface for designing and visualizing neural networks in PyTorch, utilizing NetworkX and CUDA for enhanced performance. *Expected completion: [Date]*
+
+**Certifications & Achievements**
+
+* **Coursera Deep Learning Specialization:** Completed under Dr. Andrew Ng.
+* **Finalist – Envithon 2023 Hackathon:**  Reached the finals, showcasing strong problem-solving and teamwork skills.
+
+
+**Note:**  This resume is optimized for a junior-level position.  If you have any relevant internships or experience, be sure to highlight them prominently.  Also, be prepared to discuss your security clearance eligibility during the interview process.  Finally, tailor this further to the specific requirements of each job description you apply for.
