@@ -1,6 +1,10 @@
 from googleapiclient.discovery import build
 import kaggle
 from config.api_keys import YOUTUBE_API_KEY
+import os
+os.environ["KAGGLE_USERNAME"] = "sudharsanashokkumar"
+os.environ["KAGGLE_KEY"] = "917e9d99c8978dcd4f07ff24228d511e"
+
 # ---- API KEYS (FILL THESE) ----
 #YOUTUBE_API_KEY = "AIzaSyDu1Uo31VV8LaixtQF6O_EDLVMfXxi-H90"
 #YOUTUBE_API_KEY = "ytapi"
