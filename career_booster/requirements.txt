@@ -1,4 +1,7 @@
 streamlit
+transformers
+torch
+tf-keras
 fitz  # PyMuPDF for PDF processing
 spacy
 scikit-learn
