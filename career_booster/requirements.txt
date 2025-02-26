@@ -1,0 +1,14 @@
+streamlit
+fitz  # PyMuPDF for PDF processing
+spacy
+scikit-learn
+selenium
+beautifulsoup4
+kaggle
+tensorflow  # If using BERT-based similarity
+torch  # If using SBERT
+google-generativeai  # Gemini API
+sentence-transformers  # Job matching, resume scoring
+reportlab  # PDF generation
+requests  # Web scraping (career_pathway.py)
+webdriver-manager  # Web scraping (LinkedIn)
