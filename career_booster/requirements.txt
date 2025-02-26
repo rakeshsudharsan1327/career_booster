@@ -16,5 +16,4 @@ reportlab  # PDF generation
 requests  # Web scraping (career_pathway.py)
 webdriver-manager  # Web scraping (LinkedIn)
 pdfplumber
-en_core_web_sm
-spacy.en_core_web_sm
+
